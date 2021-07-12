@@ -6,7 +6,8 @@ The code document purposes for analysing the data of MADA. The codes mainly used
  For data cleaning, it contains several steps:
    *  Auto fill the NA(blank) cell by extracting the last row value - used for the contents of columns are text 
    eg: University Name，Course name, type of applicants
-   Original table:
+ 
+ - Original table:
  -----------------------------------                       
  University         |  Couse Name                             
  ------------------ | -------------                        
@@ -18,7 +19,7 @@ Deakin University   | Business
 -----------------------------------  
                   
                   
- New table:
+ - New table:
 -----------------------------------
 University         |  Couse Name  
 ------------------ | -------------
@@ -35,7 +36,8 @@ Deakin University  | Business
    eg: Number of applicants, number of offer, number of enrollment
    
    *  Insert the perference as an order from 1 to 8
-   Original table:
+
+ - Original table:
    -----------------------------------------                       
    Applicants type    |  Preference order                             
    ------------------ | -------------------                          
@@ -47,7 +49,7 @@ Deakin University  | Business
   ----------------------------------- ------                        
   Lack of preference order in 3th，5th，8th
   
-  
+ - New table:
  --------------------------------------
   Applicants type   |  Preference order
  ------------------ | ----------------- 

@@ -6,16 +6,28 @@ The code document purposes for analysing the data of MADA. The codes mainly used
  For data cleaning, it contains several steps:
    *  Auto fill the NA(blank) cell by extracting the last row value - used for the contents of columns are text 
    eg: University Name，Course name, type of applicants
-   -----------------------------------                        -----------------------------------
-   University         |  Couse Name                           University         |  Couse Name   
-   ------------------ | -------------                         ------------------ | ------------- 
-   Monash University  | Art                                    Monash University | Art           
-                      | Design                                 Monash University | Design        
-                      | Architecture            ==>            Monash University | Architecture  
-                      | Market                                 Monash University | Market        
-   Deakin University  | Business                ==>            Deakin University | Business      
+   -----------------------------------                       
+   University         |  Couse Name                             
+   ------------------ | -------------                        
+   Monash University  | Art                                            
+                      | Design                                    
+                      | Architecture            ==>          
+                      | Market                                    
+   Deakin University  | Business                ==>              
         
-  -----------------------------------                         -----------------------------------
+  -----------------------------------                       
+  
+-----------------------------------
+University         |  Couse Name  
+------------------ | -------------
+Monash University  | Art
+Monash University  | Design
+Monash University  | Architecture  
+Monash University  | Market  
+Deakin University  | Business  
+-----------------------------------  
+  
+  
   
   
    *  Replace the NA value into 0  - used for the contents of columns are number 

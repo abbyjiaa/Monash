@@ -15,7 +15,7 @@ The code document purposes for analysing the data of MADA. The codes mainly used
  Monash University  | Art                                            
  (blank)            | Design                                    
  (blank)            | Architecture                 
- (blank)            | Market                                    
+ (blank)            | Marketing                                    
 Deakin University   | Business   
 -----------------------------------  
                 
@@ -28,7 +28,7 @@ University         |  Couse Name
 Monash University  | Art
 Monash University  | Design
 Monash University  | Architecture  
-Monash University  | Market  
+Monash University  | Marketing  
 Deakin University  | Business  
 -----------------------------------  
  

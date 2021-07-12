@@ -8,7 +8,6 @@ The code document purposes for analysing the data of MADA. The codes mainly used
    eg: University Name，Course name, type of applicants
  
  
- - Original table:
  -----------------------------------                       
  University         |  Couse Name                             
  ------------------ | -------------                        
@@ -18,9 +17,9 @@ The code document purposes for analysing the data of MADA. The codes mainly used
  (blank)            | Market                                    
 Deakin University   | Business                                 
 -----------------------------------  
+ - Original table:                 
                   
-                  
- - New table:
+
 -----------------------------------
 University         |  Couse Name  
 ------------------ | -------------
@@ -30,7 +29,7 @@ Monash University  | Architecture
 Monash University  | Market  
 Deakin University  | Business  
 -----------------------------------  
-  
+ - New table:  
   
   
    *  Replace the NA value into 0  - used for the contents of columns are number 

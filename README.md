@@ -10,11 +10,11 @@ The code document purposes for analysing the data of MADA. The codes mainly used
  University         |  Couse Name                             
  ------------------ | -------------                        
  Monash University  | Art                                            
-                    | Design                                    
-                    | Architecture                 
-                    | Market                                    
+ -                  | Design                                    
+ -                  | Architecture                 
+ -                  | Market                                    
 Deakin University   | Business                                 
-  -----------------------------------                       
+-----------------------------------                       
   
 -----------------------------------
 University         |  Couse Name  

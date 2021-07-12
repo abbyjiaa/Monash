@@ -15,9 +15,11 @@ The code document purposes for analysing the data of MADA. The codes mainly used
  (blank)            | Design                                    
  (blank)            | Architecture                 
  (blank)            | Market                                    
-Deakin University   | Business                                 
+Deakin University   | Business   
+
+(Original table)
 -----------------------------------  
- - Original table:                 
+                
                   
 
 -----------------------------------
@@ -28,8 +30,10 @@ Monash University  | Design
 Monash University  | Architecture  
 Monash University  | Market  
 Deakin University  | Business  
+
+(New table)
 -----------------------------------  
- - New table:  
+ 
   
   
    *  Replace the NA value into 0  - used for the contents of columns are number 

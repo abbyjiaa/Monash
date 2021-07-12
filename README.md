@@ -14,9 +14,7 @@ The code document purposes for analysing the data of MADA. The codes mainly used
                       | Architecture            ==>            Monash University | Architecture  
                       | Market                                 Monash University | Market        
    Deakin University  | Business                ==>            Deakin University | Business      
-                      .                                                       .                  
-                      .                                                       .                  
-                      .                                                       .                  
+        
   -----------------------------------                         -----------------------------------
   
   
@@ -32,9 +30,9 @@ The code document purposes for analysing the data of MADA. The codes mainly used
    Current Y12        | 4th pref                      ==>            Current Y12       | 3rd pref      
    Current Y12        | 6th pref                                     Current Y12       | 4th pref      
    Current Y12        | 7th pref                      ==>            Current Y12       | 5th pref                
-                      .                                              Current Y12       | 6th pref      
-                      .                                              Current Y12       | 7th pref      
-                      .                                               Current Y12      | 8th pref      
+                                                                     Current Y12       | 6th pref      
+                                                                     Current Y12       | 7th pref      
+                                                                     Current Y12      | 8th pref      
   ----------------------------------- ------                        -----------------------------------
   Lack of preference order in 3th，5th，8th
  

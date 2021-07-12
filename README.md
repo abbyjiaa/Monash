@@ -39,8 +39,8 @@ Deakin University  | Business
    
    *  Insert the perference as an order from 1 to 8
 
- - Original table:
-   -----------------------------------------                       
+   ----------------------------------------- 
+   (Original table)
    Applicants type    |  Preference order                             
    ------------------ | -------------------                          
    Current Y12        | 1st pref                                         
@@ -51,8 +51,9 @@ Deakin University  | Business
   ----------------------------------- ------                        
   Lack of preference order in 3th，5th，8th
   
- - New table:
+
  --------------------------------------
+ (New table)
   Applicants type   |  Preference order
  ------------------ | ----------------- 
   Current Y12       | 1st pref  
